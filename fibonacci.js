@@ -16,4 +16,3 @@ function Fibonacci (n){
     }
 }
 module.exports = Fibonacci
-console.log(Fibonacci(9))
